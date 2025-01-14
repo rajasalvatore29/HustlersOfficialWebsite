@@ -15,7 +15,7 @@ export default function Tools() {
       description: "Get personalized meal plans based on your calories, macros, food preferences, allergies, vitamin needs, and dietary restrictions. Customize meals, swap options, track macros, and receive a grocery list—everything you need for unlimited meal planning to reach your goals!",
       icon: Scale,
       category: "Diet & Nutrition",
-      link: "/tools/body-fat-calculator"
+      link: "https://hustlersauth.netlify.app/"
     },
   ];
 
