@@ -7,11 +7,10 @@ export default function About() {
         <div className="max-w-5xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
-              <img
-                src="src/components/assets/images/HustlerWebsitePost.jpg"
-                alt="Fitness Coach"
-                className="rounded-lg shadow-xl"
-              />
+              <a href="https://ibb.co/CHfPppD">
+                <img src="https://i.ibb.co/fxsDVVL/Hustler-Website-Post.jpg" className="rounded-lg shadow-xl" alt="Hustler-Website-Post" />
+
+              </a>
             </div>
 
             <div>
