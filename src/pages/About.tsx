@@ -8,7 +8,7 @@ export default function About() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <img
-                src="src/assets/images/HustlerWebsitePost.jpg"
+                src="src/components/assets/images/HustlerWebsitePost.jpg"
                 alt="Fitness Coach"
                 className="rounded-lg shadow-xl"
               />
