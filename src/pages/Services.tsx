@@ -7,14 +7,14 @@ export default function Services() {
       title: "One-on-One Online Coaching",
       description: "Personalized guidance tailored to your fitness goals, including custom training plans, nutrition strategies, and continuous support to help you achieve your dream physique. Stay accountable and progress effectively with a plan designed just for you!",
       icon: Users,
-      price: "15k/3 months",
+      price: "30k/3 months",
       link: "https://forms.gle/oPL9fbkmpk1HQtWh7"
     },
     {
       title: "Personalized Training and Diet & Nutrition",
       description: "Get a customized workout and nutrition plan tailored to your specific goals, lifestyle, and preferences. Designed to maximize results, this plan ensures a sustainable and effective approach to achieving your fitness and health targets",
       icon: Dumbbell,
-      price: "6k/2 months",
+      price: "15k/2 months",
       link: "https://forms.gle/yYgZhZBaXCttrLvQ8"
     }
   ];
