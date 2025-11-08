@@ -8,7 +8,7 @@ export default function About() {
           <div className="grid md:grid-cols-2 gap-12 items-center">
             <div>
               <a href="https://ibb.co/CHfPppD">
-                <img src="https://i.ibb.co/fxsDVVL/Hustler-Website-Post.jpg" className="rounded-lg shadow-xl" alt="Hustler-Website-Post" />
+                <img src="https://i.ibb.co/7t6jC8xx/IMG-6563-2.jpg" className="rounded-lg shadow-xl" alt="Hustler-Website-Post" />
 
               </a>
             </div>

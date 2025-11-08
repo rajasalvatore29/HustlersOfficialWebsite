@@ -36,14 +36,14 @@ export default function Community() {
             <a href="https://youtube.com/@hustlewithraja?si=OtEm4eukulmBArn3" target="_blank" rel="noopener noreferrer" className="hover:bg-violet-500 dark:hover:bg-violet-500 bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg text-center hover:shadow-xl transition-color">
               <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg text-center hover:shadow-xl transition-shadow">
                 <YoutubeIcon className="w-12 h-12 text-violet-600 dark:text-violet-500 mx-auto mb-4" />
-                <h3 className="text-xl font-bold mb-2 text-gray-900 dark:text-white">8,000+</h3>
+                <h3 className="text-xl font-bold mb-2 text-gray-900 dark:text-white">16,000+</h3>
                 <p className="text-gray-600 dark:text-gray-400">Subscribers</p>
               </div>
             </a>
             <a href="https://www.instagram.com/hustlewithraja?igsh=a21uZzBjczBid3Rq&utm_source=qr" target="_blank" rel="noopener noreferrer" className="hover:bg-violet-500 dark:hover:bg-violet-500 bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg text-center hover:shadow-xl transition-color">
               <div className="bg-white dark:bg-gray-800 p-6 rounded-lg shadow-lg text-center hover:shadow-xl transition-shadow">
                 <InstagramIcon className="w-12 h-12 text-violet-600 dark:text-violet-500 mx-auto mb-4" />
-                <h3 className="text-xl font-bold mb-2 text-gray-900 dark:text-white">25k+</h3>
+                <h3 className="text-xl font-bold mb-2 text-gray-900 dark:text-white">41k+</h3>
                 <p className="text-gray-600 dark:text-gray-400">Followers</p>
               </div>
             </a>
