@@ -20,8 +20,8 @@ export default function Home() {
             Transform Your Body & Mind with Expert Certified Coaches
           </h1>
           <p className="text-xl text-gray-200 mb-8 max-w-3xl mx-auto">
-            Join thousands who have already transformed their lives through our proven<br></br>
-            fitness & Nutrition programs and expert coaching.
+            It's not just a transfornation program.<br></br>
+            We rebuild discipline, confidence, and a lifestyle you can be proud of.
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
